@@ -16,7 +16,7 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 <tr>
 <th>My Projects</th>
 <th>KineticKyro Projects</th>
-<th>[EarthPol](https://earthpol.com) Projects</th>
+<th>EarthPol Projects</th>
 </tr>
 <tr><td>
 
