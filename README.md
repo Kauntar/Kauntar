@@ -44,25 +44,25 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 </tr>
 <tr><td>
 
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
-> | kdev-bot | ```Private``` |
+ |    Project    |      Link     |
+ | :------------ | :------------ |
+ | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
+ | kdev-bot | ```Private``` |
 
 </td><td>
 
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | QC-Kyro | ```Private (Public soon!)``` |
-> | Discord-Kyro | ```Private``` |
+ |    Project    |      Link     |
+ | :------------ | :------------ |
+ | QC-Kyro | ```Private (Public soon!)``` |
+ | Discord-Kyro | ```Private``` |
 
 </td><td>
 
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | CombatTag | ```Private``` |
-> | BDiscordSRV | ```Private``` |
-> | EarthPolLib | ```Private``` |
+ |    Project    |      Link     |
+ | :------------ | :------------ |
+ | CombatTag | ```Private``` |
+ | BDiscordSRV | ```Private``` |
+ | EarthPolLib | ```Private``` |
 
 </td></tr> </table>
 
