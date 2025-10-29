@@ -11,7 +11,7 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 
 <br/>
 
-## Projects I've Worked On
+## 👾 Projects I've Worked On 👾
 <table>
 <tr>
 <th>My Projects</th>
