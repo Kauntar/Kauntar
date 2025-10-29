@@ -18,7 +18,7 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 ## Projects I've Worked On
 <table>
 <tr>
-<th>My Projects </th>
+<th>My Projects</th>
 <th>KineticKyro Projects</th>
 <th>EarthPol Projects</th>
 </tr>
@@ -28,6 +28,9 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
  | :------------ | :------------ |
  | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
  | kdev-bot | ```Private``` |
+ |&nbsp;| &nbsp;|
+ |&nbsp;|&nbsp;|
+ |&nbsp;|&nbsp;|
 
 </td><td>
 
@@ -35,6 +38,9 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
  | :------------ | :------------ |
  | QC-Kyro | ```Private (Public soon!)``` |
  | Discord-Kyro | ```Private``` |
+ |&nbsp;|&nbsp;|
+ |&nbsp;|&nbsp;|
+ |&nbsp;|&nbsp;|
 
 </td><td>
 
@@ -43,6 +49,8 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
  | CombatTag | ```Private``` |
  | BDiscordSRV | ```Private``` |
  | EarthPolLib | ```Private``` |
+ | TradeWar | ```Private``` |
+ | WorldEdit-Fix | ```Private``` |
 
 </td></tr> </table>
 
