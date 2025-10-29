@@ -51,5 +51,5 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 </td></tr> </table>
 
 ## 
-![Kauntar's Github Stats](https://github-readme-stats.vercel.app/api?username=kauntar&show_icons=true&rank_icon=github&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauntar&hide_progress=true&theme=transparent)
+![Kauntar's Github Stats](https://github-readme-stats.vercel.app/api?username=kauntar&show_icons=true&rank_icon=github&theme=midnight-purple&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauntar&hide_progress=true&theme=midnight-purple&bg_color=00000000)
