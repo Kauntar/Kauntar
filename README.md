@@ -24,7 +24,7 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 </tr>
 <tr><td>
 
- | | |
+ |||
  | :------------ | :------------ |
  | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
  | kdev-bot | ```Private``` |
