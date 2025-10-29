@@ -16,26 +16,6 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 
 
 ## Projects I've Worked On
-### My Projects
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
-> | kdev-bot | ```Private``` |
-
-### KineticKyro - My Bot Network
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | QC-Kyro | ```Private (Public soon!)``` |
-> | Discord-Kyro | ```Private``` |
-
-### EarthPol - The Greatest Geopolitical Minecraft Server
-> |    Project    |      Link     |
-> | :------------ | :------------ |
-> | CombatTag | ```Private``` |
-> | BDiscordSRV | ```Private``` |
-> | EarthPolLib | ```Private``` |
-
-
 <table>
 <tr>
 <th>My Projects </th>
@@ -44,21 +24,21 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 </tr>
 <tr><td>
 
- |    Project    |      Link     |
+ | | |
  | :------------ | :------------ |
  | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
  | kdev-bot | ```Private``` |
 
 </td><td>
 
- |    Project    |      Link     |
+ | | |
  | :------------ | :------------ |
  | QC-Kyro | ```Private (Public soon!)``` |
  | Discord-Kyro | ```Private``` |
 
 </td><td>
 
- |    Project    |      Link     |
+ | | |
  | :------------ | :------------ |
  | CombatTag | ```Private``` |
  | BDiscordSRV | ```Private``` |
