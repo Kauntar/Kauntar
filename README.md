@@ -35,4 +35,35 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 > | BDiscordSRV | ```Private``` |
 > | EarthPolLib | ```Private``` |
 
+
+<table>
+<tr>
+<th>My Projects </th>
+<th>KineticKyro Projects</th>
+<th>EarthPol Projects</th>
+</tr>
+<tr><td>
+
+> |    Project    |      Link     |
+> | :------------ | :------------ |
+> | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
+> | kdev-bot | ```Private``` |
+
+</td><td>
+
+> |    Project    |      Link     |
+> | :------------ | :------------ |
+> | QC-Kyro | ```Private (Public soon!)``` |
+> | Discord-Kyro | ```Private``` |
+
+</td><td>
+
+> |    Project    |      Link     |
+> | :------------ | :------------ |
+> | CombatTag | ```Private``` |
+> | BDiscordSRV | ```Private``` |
+> | EarthPolLib | ```Private``` |
+
+</td></tr> </table>
+
 ![Kauntar's Github Stats](https://github-readme-stats.vercel.app/api?username=kauntar&show_icons=true&rank_icon=github&theme=midnight-purple)
