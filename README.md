@@ -11,10 +11,6 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauntar&hide_progress=true&theme=midnight-purple)
-
-
-
 ## Projects I've Worked On
 <table>
 <tr>
@@ -53,6 +49,9 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
  | WorldEdit-Fix | ```Private``` |
 
 </td></tr> </table>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauntar&hide_progress=true&theme=midnight-purple)
 
 ## 
 ![Kauntar's Github Stats](https://github-readme-stats.vercel.app/api?username=kauntar&show_icons=true&rank_icon=github&theme=midnight-purple)
