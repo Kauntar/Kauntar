@@ -21,10 +21,10 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 ### EarthPol
 - A now-archived server, home to hundreds of active Minecraft players, with a fanbase of many more.
 ### VanthyrMC
-- An in-development Java-based and space-themed Minecraft server with completely customizable features.
+- An end-phase development, Java-based and space-themed Minecraft server with completely customizable features. Estimated release May 2027.
 ### KineticKyro
 - Personal project of mine, dealing with a connection of systems to my different organizations.
-### QuestionCove
+### [QuestionCove](https://questioncove.com/)
 - Learning platform that helps students around the world, to understand what they are learning.
 
 ## 
