@@ -12,43 +12,20 @@ You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [
 <br/>
 
 ## 👾 Projects I've Worked On 👾
-<table>
-<tr>
-<th>My Projects</th>
-<th>KineticKyro Projects</th>
-<th>EarthPol Projects</th>
-</tr>
-<tr><td>
-
- |||
- | :------------ | :------------ |
- | SpellCore | [Link](https://github.com/kauntar/SpellCore) |
- | kdev-bot | ```Private``` |
- | Giggleland.world | [Link removed] |
- |&nbsp;|&nbsp;|
- |&nbsp;|&nbsp;|
-
-</td><td>
-
- | | |
- | :------------ | :------------ |
- | QC-Kyro | ```Private``` |
- | Discord-Kyro | ```Private``` |
- |&nbsp;|&nbsp;|
- |&nbsp;|&nbsp;|
- |&nbsp;|&nbsp;|
-
-</td><td>
-
- | | |
- | :------------ | :------------ |
- | CombatTag | ```Private``` |
- | BDiscordSRV | ```Private``` |
- | EarthPolLib | ```Private``` |
- | TradeWar | ```Private``` |
- | WorldEdit-Fix | ```Private``` |
-
-</td></tr> </table>
+### [Nevyn Studios](https://nevyn-studio.com/)
+- The home of my project builds, site is still in-development.
+### [Enumera](enumera.kauntar.dev)
+- A wildside project built to refine the old fashioned counting bots, and add a new stylistic feature to them.
+### [GeoPolMC](https://dsc.gg/geopolmc)
+- An in-development Minecraft server made with geopolitics in mind. Releasing 2027.
+### EarthPol
+- A now-archived server, home to hundreds of active Minecraft players, with a fanbase of many more.
+### VanthyrMC
+- An in-development Java-based and space-themed Minecraft server with completely customizable features.
+### KineticKyro
+- Personal project of mine, dealing with a connection of systems to my different organizations.
+### QuestionCove
+- Learning platform that helps students around the world, to understand what they are learning.
 
 ## 
 ![Kauntar's Github Stats](https://github-readme-stats.vercel.app/api?username=kauntar&show_icons=true&rank_icon=github&theme=midnight-purple&bg_color=00000000&border_color=3D444D)
