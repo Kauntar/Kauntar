@@ -7,7 +7,7 @@ I have many hobbies, much consisting of my knowledge in software, web, and app d
 You can visit my website over at [https://kauntar.me/](https://kauntar.me/) or [https://kauntar.dev/](https://kauntar.dev).
 > [!NOTE]
 > I am currently reworking my website's hosting, domain, and everything else. It may or may not show when clicked. \
-> \- Kauntar (10/28/25) 
+> \- Kauntar (6/20/26) 
 
 <br/>
 
